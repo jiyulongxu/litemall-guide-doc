@@ -19,3 +19,6 @@
 
 
 现在我们还差小程序后台部署了。
+
+
+[第4章 VUE后台部署](https://github.com/iotechn/litemall-guide-doc/blob/master/Chapter-4.md)

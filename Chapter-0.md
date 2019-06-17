@@ -3,11 +3,11 @@
 
 #### 0.1 Git安装
 
-使用ssh连接到云主机上收。安装git
+使用ssh连接到云主机上。安装git
 
 	yum install git
 
-看到Complete！表示安装完场
+看到Complete！表示安装完成
 
 #### 0.2 MySQL安装
 
@@ -19,3 +19,5 @@
 
 #### 0.4 Maven安装
 请参考 [CentOS 安装 Maven](https://github.com/iotechn/document-basic/blob/master/CentOS_Install_Maven.md)
+
+[第1章 下载后端代码并配置](https://github.com/iotechn/litemall-guide-doc/blob/master/Chapter-1.md)

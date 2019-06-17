@@ -6,7 +6,7 @@ cd进去litemall代码目录后，执行mvn package命令。
 
 	cd
 	cd code/litemall
-	man package
+	mvn package
 
 第一次打包时，maven会自动下载项目依赖的jar包，所以第一次用时比较长。编译完成后，命令提示窗中每个子项目编译完成。
 
@@ -41,7 +41,7 @@ nginx配置https请参照 [CentOS 安装 Nginx 并配置 SSL](https://github.com
 
 	service nginx restart
 
-若不是用过yum安装的，可能需要用
+若不是用yum安装的，可能需要用
 	
 	nginx -s reload
 
@@ -52,3 +52,5 @@ nginx配置https请参照 [CentOS 安装 Nginx 并配置 SSL](https://github.com
 ![https](./images/https_success.png)
 
 到此，后端服务全部部署完成，下面我们还差小程序和后台管理了！
+
+[第3章 小程序部署](https://github.com/iotechn/litemall-guide-doc/blob/master/Chapter-3.md)

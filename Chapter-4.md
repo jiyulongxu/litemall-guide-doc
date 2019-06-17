@@ -60,3 +60,4 @@ A few minutes later,安装完成，接下来可以编译了。
 
 	
 
+[致谢](https://github.com/iotechn/litemall-guide-doc/blob/master/Thanks.md)

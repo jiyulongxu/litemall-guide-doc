@@ -66,4 +66,5 @@ MySQL配置第一步需要建立MySQL表结构。litemall已经提供了mysql的
 将spring.datasource.druid.password 改为数据库密码1234newpwd!@#ABC
 
 
+[第2章 编译并运行后端代码](https://github.com/iotechn/litemall-guide-doc/blob/master/Chapter-2.md)
 
